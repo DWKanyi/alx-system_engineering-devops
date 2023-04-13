@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+# Repository for tackling the shell basics project
