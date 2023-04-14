@@ -1,2 +1,2 @@
 #!/bin/bash
-chmon -R +X .
+chmod -R ugo+X .
